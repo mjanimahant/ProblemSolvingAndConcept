@@ -1,0 +1,10 @@
+<table>
+    <tr>
+        <td>
+            Description
+        </td>
+        <td>
+            Solution/Hint
+        </td>
+    </tr>
+</table>
