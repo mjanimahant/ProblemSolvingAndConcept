@@ -12,7 +12,7 @@
             Test Description
          </td>
         <td>
-            Solution/Hint
+             Test Solution
          </td>
     </tr>
 </table>
