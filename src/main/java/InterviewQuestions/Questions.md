@@ -4,13 +4,15 @@
             Description
         </td>
         <td>
-            Test Description
-        </td>
-        <td>
             Solution/Hint
         </td>
+    </tr>
+    <tr>
         <td>
-            Test Solution
-        </td>
+            Test Description
+         </td>
+        <td>
+            Solution/Hint
+         </td>
     </tr>
 </table>
